@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba03e24a-0e42-4d08-87c3-511e135fde04" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdventOfCode02/src/AdventOfCode02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdventOfCode02/src/AdventOfCode02Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventOfCode01/src/AdventOfCode01.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode01/src/AdventOfCode01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventOfCode01/src/AdventOfCode01Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode01/src/AdventOfCode01Test.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +17,74 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdventOfCode03/src/AdventOfCode03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <state relative-caret-position="60">
+              <caret line="3" column="55" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdventOfCode01/src/AdventOfCode01Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdventOfCode02/src/AdventOfCode02Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdventOfCode03/src/AdventOfCode03Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdventOfCode04/src/AdventOfCode04Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdventOfCode05/src/AdventOfCode05.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="54" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AdventOfCode05/src/AdventOfCode05Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AdventOfCode04/src/AdventOfCode04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="54" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -37,9 +105,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/AdventOfCode01/src/AdventOfCode01.java" />
-        <option value="$PROJECT_DIR$/AdventOfCode01/src/AdventOfCode01Test.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/AdventOfCode01/src/AdventOfCode01Test.java" />
+        <option value="$PROJECT_DIR$/AdventOfCode01/src/AdventOfCode01.java" />
+        <option value="$PROJECT_DIR$/AdventOfCode02/src/AdventOfCode02Test.java" />
+        <option value="$PROJECT_DIR$/AdventOfCode03/src/AdventOfCode03.java" />
+        <option value="$PROJECT_DIR$/AdventOfCode02/src/AdventOfCode02.java" />
+        <option value="$PROJECT_DIR$/AdventOfCode04/src/AdventOfCode04.java" />
+        <option value="$PROJECT_DIR$/AdventOfCode05/src/AdventOfCode05.java" />
+        <option value="$PROJECT_DIR$/AdventOfCode05/src/AdventOfCode05Test.java" />
+        <option value="$PROJECT_DIR$/AdventOfCode03/src/AdventOfCode03Test.java" />
+        <option value="$PROJECT_DIR$/AdventOfCode04/src/AdventOfCode04Test.java" />
       </list>
     </option>
   </component>
@@ -50,7 +126,7 @@
     <option name="height" value="1250" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -61,27 +137,67 @@
               <item name="AdventOfCode2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="AdventOfCode2018" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="AdventOfCode2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AdventOfCode2018" type="462c0819:PsiDirectoryNode" />
-              <item name="AdventOfCode01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AdventOfCode2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AdventOfCode2018" type="462c0819:PsiDirectoryNode" />
-              <item name="AdventOfCode01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="AdventOfCode2018" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="AdventOfCode01" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="AdventOfCode2018" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="AdventOfCode01" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="AdventOfCode2018" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="AdventOfCode02" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="AdventOfCode2018" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="AdventOfCode02" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="AdventOfCode2018" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="AdventOfCode03" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="AdventOfCode2018" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="AdventOfCode03" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="AdventOfCode2018" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="AdventOfCode04" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="AdventOfCode2018" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="AdventOfCode04" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="AdventOfCode2018" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="AdventOfCode05" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="AdventOfCode2018" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="AdventOfCode05" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543573253883" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543574187898" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -99,6 +215,12 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dev\Projects\AdventOfCode2018\AdventOfCode05\src" />
+      <recent name="C:\Dev\Projects\AdventOfCode2018\AdventOfCode04\src" />
+      <recent name="C:\Dev\Projects\AdventOfCode2018\AdventOfCode03\src" />
+      <recent name="C:\Dev\Projects\AdventOfCode2018\AdventOfCode02\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -112,20 +234,54 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="AdventOfCode01Test.startTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.AdventOfCode05Test">
+    <configuration name="AdventOfCode01Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AdventOfCode01" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="AdventOfCode01Test" />
-      <option name="METHOD_NAME" value="startTest" />
-      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdventOfCode02Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AdventOfCode02" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AdventOfCode02Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdventOfCode03Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AdventOfCode03" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AdventOfCode03Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdventOfCode04Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AdventOfCode04" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AdventOfCode04Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdventOfCode05Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AdventOfCode05" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AdventOfCode05Test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AdventOfCode01Test.startTest" />
+        <item itemvalue="JUnit.AdventOfCode05Test" />
+        <item itemvalue="JUnit.AdventOfCode04Test" />
+        <item itemvalue="JUnit.AdventOfCode03Test" />
+        <item itemvalue="JUnit.AdventOfCode02Test" />
+        <item itemvalue="JUnit.AdventOfCode01Test" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +331,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543572983015</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Initial Setup">
+      <created>1543573139042</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1543573139042</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -184,6 +347,21 @@
     </history-entry>
     <history-entry file="AdventOfCode01Test_startTest - 2018.11.30 at 11h 15m 26s.xml">
       <configuration name="AdventOfCode01Test.startTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdventOfCode01Test - 2018.11.30 at 11h 31m 28s.xml">
+      <configuration name="AdventOfCode01Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdventOfCode02Test - 2018.11.30 at 11h 31m 42s.xml">
+      <configuration name="AdventOfCode02Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdventOfCode03Test - 2018.11.30 at 11h 33m 31s.xml">
+      <configuration name="AdventOfCode03Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdventOfCode04Test - 2018.11.30 at 11h 34m 46s.xml">
+      <configuration name="AdventOfCode04Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdventOfCode05Test - 2018.11.30 at 11h 35m 46s.xml">
+      <configuration name="AdventOfCode05Test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -199,14 +377,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32955405" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32955405" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32955405" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32955405" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32955405" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32955405" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -223,27 +401,88 @@
     <option name="LAST_COMMIT_MESSAGE" value="Initial Setup" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5940" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdventOfCode01/AdventOfCode01.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/AdventOfCode01/src/AdventOfCode01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdventOfCode02/src/AdventOfCode02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="55" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdventOfCode03/src/AdventOfCode03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="55" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdventOfCode04/src/AdventOfCode04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="54" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdventOfCode05/src/AdventOfCode05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="54" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AdventOfCode01/src/AdventOfCode01Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="240">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/AdventOfCode02/src/AdventOfCode02Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="120">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdventOfCode03/src/AdventOfCode03Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdventOfCode04/src/AdventOfCode04Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdventOfCode05/src/AdventOfCode05Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
