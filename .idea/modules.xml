@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdventOfCode01/AdventOfCode01.iml" filepath="$PROJECT_DIR$/AdventOfCode01/AdventOfCode01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdventOfCode02/AdventOfCode02.iml" filepath="$PROJECT_DIR$/AdventOfCode02/AdventOfCode02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdventOfCode03/AdventOfCode03.iml" filepath="$PROJECT_DIR$/AdventOfCode03/AdventOfCode03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdventOfCode04/AdventOfCode04.iml" filepath="$PROJECT_DIR$/AdventOfCode04/AdventOfCode04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdventOfCode05/AdventOfCode05.iml" filepath="$PROJECT_DIR$/AdventOfCode05/AdventOfCode05.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/AdventOfCode2018.iml" filepath="$PROJECT_DIR$/.idea/AdventOfCode2018.iml" />
     </modules>
   </component>
