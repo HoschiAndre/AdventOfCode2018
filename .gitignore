@@ -2,6 +2,7 @@
 *.class
 /output
 /.idea/workspace.xml
+*.iml
 
 # Log file
 *.log
