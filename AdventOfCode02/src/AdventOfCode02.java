@@ -2,32 +2,42 @@ import java.util.*;
 
 public class AdventOfCode02 {
 
-    public int start02(String input) {
-        System.out.println("Starting Advent of Code 01 ...");
+    public String start02(String input) {
+        System.out.println("Starting Advent of Code 02 ...");
 
         List<String> inputList = new ArrayList<>(Arrays.asList(input.split("\n")));
-        Set<Integer> resultTwice = new HashSet<>();
 
-        int result = 0;
-        boolean twice = true;
-        int i = 0;
+         // über die Liste
+        for (int i = 0; i < inputList.size(); i++) {
 
-        for (; ; ) {
 
-            if (i == inputList.size()) {
-                i = 0;
+            for (int wordIndex = 0; wordIndex < inputList.get(i).length(); wordIndex++) {
+
+                StringBuilder root = new StringBuilder(inputList.get(i));
+
+                root.setCharAt(wordIndex, '0');
+
+                for (int j = 0; j < inputList.size(); j++) {
+                    StringBuilder target = new StringBuilder(inputList.get(j));
+
+                    target.setCharAt(wordIndex, '0');
+
+                    if (!inputList.get(j).equals(inputList.get(i))) {
+
+                        if (root.toString().equals(target.toString())) {
+
+                            root.replace(wordIndex, wordIndex + 1, "");
+
+                            return root.toString();
+                        }
+                    }
+
+
+                }
             }
 
-            result = result + Integer.parseInt(inputList.get(i));
-
-            twice = resultTwice.add(result);
-
-            if (twice == false) {
-                return result;
-            }
-
-            i++;
-        }
     }
+        return null;
 
+}
 }
