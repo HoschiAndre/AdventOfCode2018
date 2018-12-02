@@ -266,4 +266,5 @@ public class AdventOfCode02Test {
 
     }
 
+
 }

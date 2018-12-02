@@ -38,6 +38,5 @@ public class AdventOfCode02 {
 
     }
         return null;
-
 }
 }
